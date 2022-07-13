@@ -1,4 +1,4 @@
-package creational_pattern.singleton;
+package singleton;
 
 /**
  * 멀티스레드 환경에서 안전하게 사용하기 위해서

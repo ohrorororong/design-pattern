@@ -1,4 +1,4 @@
-package creational_pattern.singleton;
+package singleton;
 
 /**
  * 만약 synchronized 사용하지 않고 성능을 더 끌어올리고 싶으면

@@ -1,7 +1,6 @@
-package creational_pattern.singleton;
+package singleton;
 
 import java.io.*;
-import java.lang.reflect.Constructor;
 
 public class Main {
     public static void main(String[] args) throws Exception {

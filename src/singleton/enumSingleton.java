@@ -1,4 +1,4 @@
-package creational_pattern.singleton;
+package singleton;
 
 /**
  * 싱글톤 이게 전부다.

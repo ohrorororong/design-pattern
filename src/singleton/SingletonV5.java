@@ -1,4 +1,4 @@
-package creational_pattern.singleton;
+package singleton;
 
 /**
  * 싱글톤 패턴 권장 방법 1 (LAZY하게)

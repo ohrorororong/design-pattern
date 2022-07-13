@@ -1,4 +1,4 @@
-package creational_pattern.singleton;
+package singleton;
 
 /**
  * double checked locking 사용하기

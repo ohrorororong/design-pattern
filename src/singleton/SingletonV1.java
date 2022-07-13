@@ -1,4 +1,4 @@
-package creational_pattern.singleton;
+package singleton;
 
 /**
  * SingletonV1은 멀티스레드 환경에서 안전하지 않다.
