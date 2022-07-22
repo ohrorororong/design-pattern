@@ -5,7 +5,7 @@ import java.io.*;
 public class Main {
     public static void main(String[] args) throws Exception {
 
-//        SingletonV1 singletonV11 = SingletonV1.getInstance();
+        //SingletonV1 singletonV11 = SingletonV1.getInstance();
 //        SingletonV1 singletonV12 = SingletonV1.getInstance();
 //        System.out.println(singletonV11 == singletonV12);
 
